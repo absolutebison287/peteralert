@@ -1,4 +1,4 @@
-multiple peter alerts in different formats
+peter alerts
 
 V1:
 peter alert (peteralert.exe)
@@ -6,5 +6,6 @@ peter alert (peteralert.exe)
 V2: 
 peter mega alert (peter_alert.exe)
 
-V3 (coming soon):
+WIP: 
 golden peter ratio (goldenpeteralert.exe)
+peter limbo (peterlimbo.exe)
