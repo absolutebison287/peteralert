@@ -17,4 +17,7 @@ golden peter ratio (goldenpeteralert.exe)
 - shaped like the golden ratio or sumthn like that
 
 peter limbo (peterlimbo.exe)
-- limbo, wrong griffin crashes ur pc or sumthn that makes the funny 
+- limbo, wrong griffin crashes ur pc or sumthn that makes the funny
+
+shoot the peter (petershooter.exe)
+- point and click except you shoot peter and funny peter knee injury happens then pc crashes 👍
