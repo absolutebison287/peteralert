@@ -12,10 +12,12 @@ V3:
 peter mega alert 2 (bigpeteralert.exe)
 - one thousand and one subtract one alerts
 
-WIP: 
+V4:
 peter alert discord rich presence (peteralert (with dc rich presence).exe WITHIN THE peteralertrichpresence.zip FILE)
 - peter alert with discord rich presence to display how many peter alerts received
-- likely to have more features worked on like spectate or whatever 
+- for some reason u have the power of posting a game invite to it even though u cant join anything lol, havent seen what happens if someone with the exe file tries to join the "game" 🤔🤔🤔
+
+WIP: 
 
 golden peter ratio (goldenpeteralert.exe)
 - shaped like the golden ratio or sumthn like that
